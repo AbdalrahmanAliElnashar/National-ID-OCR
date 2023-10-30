@@ -61,13 +61,18 @@ This project leverages the power of [Tesseract OCR](https://github.com/tesseract
 
 Tesseract OCR is a well-established and widely used OCR engine known for its ability to recognize text from various image formats and complex layouts. It supports multiple languages, making it suitable for projects involving National ID cards from different regions and languages.
 
-### Integration with Tesseract
-
-I have seamlessly integrated Tesseract OCR into this project to enable the accurate extraction of information from National ID cards. Tesseract processes the input card images and extracts the text data, which is then post-processed to extract the specific details such as name, date of birth, and address.
-
-### Configuration
-
 To ensure optimal OCR results, it is essential to configure Tesseract for your specific use case. You may need to fine-tune language settings and preprocessing steps to adapt Tesseract to the National ID card formats you are working with. Please refer to the project's documentation for details on configuring Tesseract for this project.
+
+## Example: The Original Image
+<img src="/Images/test_NID_4.jpg" alt="before warping" width="600" height="400">
+
+## Image After Applying Threshold
+<img src="/Images/test_NID_5.jpg" alt="before warping" width="600" height="400">
+
+## National ID Card Information
+
+
+
 
 # Conclusion
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
