@@ -57,6 +57,9 @@ https://www.computervision.zone/courses/document-scanner
 - ### This is The image before Warping
 ![Before Warping](/Images/test_NID_1.jpg)
 
+<img src="/Images/test_NID_1.jpg" alt="WWWW" width="500" height="200">
+
+
   
 
 
