@@ -36,7 +36,7 @@ Now, You can easily load your image using Dialog Box.
 
 
 # Preprocessing
-- RESIZE
+- ## RESIZE
 - *CONVERT TO GRAYSCALE*
 - **APPLY GAUSSIAN BLURING**
 
