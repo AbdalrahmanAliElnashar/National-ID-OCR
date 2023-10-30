@@ -51,7 +51,7 @@ In this project, I apply perspective warping to the image to correct for distort
 the process typically involves defining key points or regions in the image and specifying the desired perspective transformation. The result is a visually altered image that can be useful for various applications, such as image correction, virtual reality, or creative artwork.
 
 For more information:
-! https://youtu.be/Tm_7fGolVGE
+https://www.computervision.zone/courses/document-scanner
 
 
 # OCR using tesseract
