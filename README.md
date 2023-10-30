@@ -1,4 +1,4 @@
-# National-ID-OCR
+# **National ID Information Extraction Using OCR**
 The "National ID Extract Information Using OCR" project is an automated solution that uses Optical Character Recognition (OCR) technology to extract essential data from National ID cards. This project simplifies the extraction of information, such as the cardholder's name, date of birth, and address, from a variety of National ID cards.
 
 The "National ID Extract Information Using OCR" project is a cutting-edge solution designed to streamline and simplify the process of extracting critical information from National ID cards. Leveraging advanced Optical Character Recognition (OCR) technology, this project offers a robust and automated approach to digitizing data from a variety of National ID cards, enhancing efficiency and accuracy in the handling of personal identification documents.
