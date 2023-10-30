@@ -38,7 +38,7 @@ Now, You can easily load your image using Dialog Box.
 # Preprocessing
 After loading the image, We need to apply some preprocessing operations to prepare our image.
 These operations are:
-- **RESIZE IMAGE to a suitable Height and Width**
+- **RESIZE IMAGE**
 - **CONVERT TO GRAYSCALE**
 - **APPLY GAUSSIAN BLURRING**
 - **APPLY THRESHOLODING**
