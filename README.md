@@ -46,7 +46,12 @@ These operations are:
 
 
 # Warping Perspective
+In this project, I apply perspective warping to the image to correct for distortions or to achieve specific visual effects. This technique involves transforming the image in such a way that it appears to have been viewed from a different perspective, creating a new, transformed version of the original image.
 
+the process typically involves defining key points or regions in the image and specifying the desired perspective transformation. The result is a visually altered image that can be useful for various applications, such as image correction, virtual reality, or creative artwork.
+
+For more information:
+! https://youtu.be/Tm_7fGolVGE
 
 
 # OCR using tesseract
