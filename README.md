@@ -11,12 +11,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 - [Preprocssing](#Preprocessing)
 - [Warping Perspective](#Warping-Perspective)
 - [OCR using tesseract](#OCR-using-tesseract)
-- [Usage](#usage)
-- [Supported ID Cards](#supported-id-cards)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Conclusion](#contact)
 
 
 
