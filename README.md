@@ -7,7 +7,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 ## Project Workflow
 
-- [Loading Image](#Loading Image using EasyGui)
+- [Loading Image](#Loading-Image-using-EasyGui)
 - [Preprocssing](#Preprocessing)
 - [Demo](#demo)
 - [Installation](#installation)
