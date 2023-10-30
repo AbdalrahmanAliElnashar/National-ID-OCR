@@ -7,7 +7,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
@@ -16,7 +16,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Contact](#Contact)
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
