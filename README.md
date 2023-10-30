@@ -9,7 +9,7 @@ The "National ID Extract Information Using OCR" project is a cutting-edge soluti
 - [Loading Image](#Loading-Image-using-EasyGui)
 - [Preprocssing](#Preprocessing)
 - [Warping Perspective](#Warping-Perspective)
-- [OCR using tesseract](#OCR-using-tesseract)
+- [OCR using tesseract](#Information-Extraction-Using-Tesseract-OCR)
 - [Conclusion](#Conclusion)
 
 
