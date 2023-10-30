@@ -36,7 +36,9 @@ Now, You can easily load your image using Dialog Box.
 
 
 # Preprocessing
-
+- RESIZE
+- *CONVERT TO GRAYSCALE*
+- **APPLY GAUSSIAN BLURING**
 
 
 # Warping Perspective
