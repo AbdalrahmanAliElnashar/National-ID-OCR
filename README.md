@@ -63,13 +63,17 @@ Tesseract OCR is a well-established and widely used OCR engine known for its abi
 
 To ensure optimal OCR results, it is essential to configure Tesseract for your specific use case. You may need to fine-tune language settings and preprocessing steps to adapt Tesseract to the National ID card formats you are working with. Please refer to the project's documentation for details on configuring Tesseract for this project.
 
-## Example: The Original Image
+# Example
+## The Original Image
 <img src="/Images/test_NID_4.jpg" alt="before warping" width="600" height="400">
 
 ## Image After Applying Threshold
 <img src="/Images/test_NID_5.jpg" alt="before warping" width="600" height="400">
 
 ## National ID Card Information
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
 
 
 
