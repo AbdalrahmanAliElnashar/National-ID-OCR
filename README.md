@@ -54,4 +54,8 @@ For more information:
 https://www.computervision.zone/courses/document-scanner
 
 
+- ## This is The image before Warping
+  
+
+
 # OCR using tesseract
