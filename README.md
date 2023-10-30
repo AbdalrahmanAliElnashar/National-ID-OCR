@@ -20,8 +20,9 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 
 
-#introduction
+# introduction
+
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
 
 
-#contact
+# contact
