@@ -5,10 +5,10 @@ The "National ID Extract Information Using OCR" project is a cutting-edge soluti
 
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
 
-## Table of Contents
+## Project Workflow
 
-- [Introduction](#Introduction)
-- [Features](#features)
+- [Loading Image](#Loading Image using EasyGui)
+- [Preprocssing](#Preprocessing)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,7 +20,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 
 
-# Introduction
+# Loading Image using EasyGui
 
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
 
