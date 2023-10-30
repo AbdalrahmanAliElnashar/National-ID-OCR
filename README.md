@@ -25,7 +25,7 @@ Before you begin, ensure that you have the EasyGUI library installed. You can in
 
 ```bash
 pip install easygui
-
+```
 EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGui provides an easy-to-use interface for simple GUI interaction with a user.
 
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
