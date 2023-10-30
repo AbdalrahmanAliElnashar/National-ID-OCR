@@ -55,15 +55,13 @@ https://www.computervision.zone/courses/document-scanner
 
 
 - ### This is The image before Warping
-![Before Warping](/Images/test_NID_1.jpg)
+<img src="/Images/test_NID_1.jpg" alt="before warping" width="600" height="600">
 
-<img src="/Images/test_NID_1.jpg" alt="before warping" width="800" height="600">
-
+- ### 4-Key Points
+<img src="/Images/test_NID_2.jpg" alt="after Warping" width="600" height="600">
 
 - ### This is The image After Warping
-![Before Warping](/Images/test_NID_1.jpg)
-
-<img src="/Images/test_NID_2.jpg" alt="after Warping" width="800" height="600">
+<img src="/Images/test_NID_3.jpg" alt="after Warping2" width="600" height="600">
 
 
   
