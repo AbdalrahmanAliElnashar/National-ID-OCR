@@ -7,7 +7,7 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
