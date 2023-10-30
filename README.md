@@ -71,9 +71,10 @@ To ensure optimal OCR results, it is essential to configure Tesseract for your s
 <img src="/Images/test_NID_5.jpg" alt="before warping" width="600" height="400">
 
 ## National ID Card Information
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Data 1   | Data 2   | Data 3   |
+| Index  | surname | name | sex | nationality | identity number | date | country          | status       |
+|-------|-----|--------|----------|------------|-----------|---------|----------------|---------------|
+| 0 | amari  | sumsub | m | rsa   | 0123456789012   | 22 jul 1980 | rsa | citizen    |
+
 
 
 
