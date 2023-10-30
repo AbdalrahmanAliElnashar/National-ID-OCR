@@ -24,11 +24,6 @@ EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGu
 Now, You can easily load your image using Dialog Box.
 
 
-
-
-
-
-
 # Preprocessing
 After loading the image, We need to apply some preprocessing operations to prepare our image.
 These operations are:
@@ -59,6 +54,24 @@ https://www.computervision.zone/courses/document-scanner
 
 
 # OCR using tesseract
+## Information Extraction Using Tesseract OCR
+
+This project leverages the power of [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for extracting text information from National ID cards. Tesseract is an open-source OCR engine developed by Google that provides accurate and efficient text recognition capabilities.
+
+### Why Tesseract OCR?
+
+Tesseract OCR is a well-established and widely used OCR engine known for its ability to recognize text from various image formats and complex layouts. It supports multiple languages, making it suitable for projects involving National ID cards from different regions and languages.
+
+### Integration with Tesseract
+
+We have seamlessly integrated Tesseract OCR into this project to enable the accurate extraction of information from National ID cards. Tesseract processes the input card images and extracts the text data, which is then post-processed to extract the specific details such as name, date of birth, and address.
+
+### Configuration
+
+To ensure optimal OCR results, it is essential to configure Tesseract for your specific use case. You may need to fine-tune language settings and preprocessing steps to adapt Tesseract to the National ID card formats you are working with. Please refer to the project's documentation for details on configuring Tesseract for this project.
+
+By utilizing Tesseract OCR, this project offers a robust and versatile solution for extracting information from National ID cards, providing reliable and accurate results for various formats and languages.
+
 
 
 # Conclusion
