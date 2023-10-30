@@ -9,8 +9,8 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 
 - [Loading Image](#Loading-Image-using-EasyGui)
 - [Preprocssing](#Preprocessing)
-- [Demo](#demo)
-- [Installation](#installation)
+- [Warping Perspective](#Warping-Perspective)
+- [OCR using tesseract](#OCR-using-tesseract)
 - [Usage](#usage)
 - [Supported ID Cards](#supported-id-cards)
 - [Contributing](#contributing)
@@ -25,4 +25,12 @@ National ID cards are crucial documents used worldwide for a wide range of purpo
 National ID cards are crucial documents used worldwide for a wide range of purposes, including identification, access control, and official transactions. Extracting information such as the cardholder's name, date of birth, address, and other pertinent details can be a time-consuming and error-prone task when done manually. This project alleviates these challenges by automating the extraction process, making it faster, more reliable, and less prone to human error.
 
 
-# contact
+# Preprocessing
+
+
+
+# Warping Perspective
+
+
+
+# OCR using tesseract
