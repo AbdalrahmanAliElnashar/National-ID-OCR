@@ -55,6 +55,7 @@ https://www.computervision.zone/courses/document-scanner
 
 
 - ## This is The image before Warping
+(Before Warping)[/Images/test_NID_1.jpg]
   
 
 
